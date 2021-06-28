@@ -1,0 +1,14 @@
+﻿  BST.cpp
+  main.cpp
+  Generating Code...
+C:\Users\trevor\source\repos\235 lab 8\BST.h(107): warning C4715: 'BST<int>::addNode': not all control paths return a value
+C:\Users\trevor\source\repos\235 lab 8\BST.h(107): warning C4715: 'BST<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::addNode': not all control paths return a value
+C:\Users\trevor\source\repos\235 lab 8\BST.h(70): warning C4715: 'BST<int>::deleteNode': not all control paths return a value
+C:\Users\trevor\source\repos\235 lab 8\BST.h(292): warning C4715: 'BST<int>::eraseNode': not all control paths return a value
+C:\Users\trevor\source\repos\235 lab 8\BST.h(159): warning C4715: 'BST<int>::insertNode': not all control paths return a value
+C:\Users\trevor\source\repos\235 lab 8\BST.h(137): warning C4715: 'BST<int>::findNode': not all control paths return a value
+C:\Users\trevor\source\repos\235 lab 8\BST.h(159): warning C4715: 'BST<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::insertNode': not all control paths return a value
+C:\Users\trevor\source\repos\235 lab 8\BST.h(292): warning C4715: 'BST<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::eraseNode': not all control paths return a value
+C:\Users\trevor\source\repos\235 lab 8\BST.h(70): warning C4715: 'BST<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::deleteNode': not all control paths return a value
+C:\Users\trevor\source\repos\235 lab 8\BST.h(137): warning C4715: 'BST<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::findNode': not all control paths return a value
+  235 lab 8.vcxproj -> C:\Users\trevor\source\repos\235 lab 8\Debug\235 lab 8.exe
