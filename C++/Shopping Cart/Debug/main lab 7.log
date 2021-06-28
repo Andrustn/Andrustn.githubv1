@@ -1,0 +1,61 @@
+﻿  ItemToPurchase.cpp
+C:\Users\trevor\source\repos\main lab 7\ItemToPurchase.cpp(5,31): error C2653: 'ItemToPurchase': is not a class or namespace name
+C:\Users\trevor\source\repos\main lab 7\ItemToPurchase.cpp(5,34): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\trevor\source\repos\main lab 7\ItemToPurchase.cpp(6,2): error C2065: 'itemName': undeclared identifier
+C:\Users\trevor\source\repos\main lab 7\ItemToPurchase.cpp(7,2): error C2065: 'itemPrice': undeclared identifier
+C:\Users\trevor\source\repos\main lab 7\ItemToPurchase.cpp(8,2): error C2065: 'itemQuantity': undeclared identifier
+C:\Users\trevor\source\repos\main lab 7\ItemToPurchase.cpp(9,1): warning C4508: 'ItemToPurchase': function should return a value; 'void' return type assumed
+C:\Users\trevor\source\repos\main lab 7\ItemToPurchase.cpp(10,29): error C2653: 'ItemToPurchase': is not a class or namespace name
+C:\Users\trevor\source\repos\main lab 7\ItemToPurchase.cpp(11,2): error C2065: 'itemName': undeclared identifier
+C:\Users\trevor\source\repos\main lab 7\ItemToPurchase.cpp(13,31): error C2653: 'ItemToPurchase': is not a class or namespace name
+C:\Users\trevor\source\repos\main lab 7\ItemToPurchase.cpp(14,9): error C2065: 'itemName': undeclared identifier
+C:\Users\trevor\source\repos\main lab 7\ItemToPurchase.cpp(16,30): error C2653: 'ItemToPurchase': is not a class or namespace name
+C:\Users\trevor\source\repos\main lab 7\ItemToPurchase.cpp(17,2): error C2065: 'itemPrice': undeclared identifier
+C:\Users\trevor\source\repos\main lab 7\ItemToPurchase.cpp(19,32): error C2653: 'ItemToPurchase': is not a class or namespace name
+C:\Users\trevor\source\repos\main lab 7\ItemToPurchase.cpp(20,9): error C2065: 'itemPrice': undeclared identifier
+C:\Users\trevor\source\repos\main lab 7\ItemToPurchase.cpp(22,33): error C2653: 'ItemToPurchase': is not a class or namespace name
+C:\Users\trevor\source\repos\main lab 7\ItemToPurchase.cpp(23,2): error C2065: 'itemQuantity': undeclared identifier
+C:\Users\trevor\source\repos\main lab 7\ItemToPurchase.cpp(25,32): error C2653: 'ItemToPurchase': is not a class or namespace name
+  main.cpp
+C:\Users\trevor\source\repos\main lab 7\ItemToPurchase.cpp(26,9): error C2065: 'itemQuantity': undeclared identifier
+C:\Users\trevor\source\repos\main lab 7\ItemToPurchase.cpp(5,31): error C2653: 'ItemToPurchase': is not a class or namespace name
+C:\Users\trevor\source\repos\main lab 7\ItemToPurchase.cpp(5,34): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\trevor\source\repos\main lab 7\ItemToPurchase.cpp(6,2): error C2065: 'itemName': undeclared identifier
+C:\Users\trevor\source\repos\main lab 7\ItemToPurchase.cpp(7,2): error C2065: 'itemPrice': undeclared identifier
+C:\Users\trevor\source\repos\main lab 7\ItemToPurchase.cpp(8,2): error C2065: 'itemQuantity': undeclared identifier
+C:\Users\trevor\source\repos\main lab 7\ItemToPurchase.cpp(9,1): warning C4508: 'ItemToPurchase': function should return a value; 'void' return type assumed
+C:\Users\trevor\source\repos\main lab 7\ItemToPurchase.cpp(10,29): error C2653: 'ItemToPurchase': is not a class or namespace name
+C:\Users\trevor\source\repos\main lab 7\ItemToPurchase.cpp(11,2): error C2065: 'itemName': undeclared identifier
+C:\Users\trevor\source\repos\main lab 7\ItemToPurchase.cpp(13,31): error C2653: 'ItemToPurchase': is not a class or namespace name
+C:\Users\trevor\source\repos\main lab 7\ItemToPurchase.cpp(14,9): error C2065: 'itemName': undeclared identifier
+C:\Users\trevor\source\repos\main lab 7\ItemToPurchase.cpp(16,30): error C2653: 'ItemToPurchase': is not a class or namespace name
+C:\Users\trevor\source\repos\main lab 7\ItemToPurchase.cpp(17,2): error C2065: 'itemPrice': undeclared identifier
+C:\Users\trevor\source\repos\main lab 7\ItemToPurchase.cpp(19,32): error C2653: 'ItemToPurchase': is not a class or namespace name
+C:\Users\trevor\source\repos\main lab 7\ItemToPurchase.cpp(20,9): error C2065: 'itemPrice': undeclared identifier
+C:\Users\trevor\source\repos\main lab 7\ItemToPurchase.cpp(22,33): error C2653: 'ItemToPurchase': is not a class or namespace name
+C:\Users\trevor\source\repos\main lab 7\ItemToPurchase.cpp(23,2): error C2065: 'itemQuantity': undeclared identifier
+C:\Users\trevor\source\repos\main lab 7\ItemToPurchase.cpp(25,32): error C2653: 'ItemToPurchase': is not a class or namespace name
+C:\Users\trevor\source\repos\main lab 7\ItemToPurchase.cpp(26,9): error C2065: 'itemQuantity': undeclared identifier
+C:\Users\trevor\source\repos\main lab 7\main.cpp(9,17): error C2146: syntax error: missing ';' before identifier 'Item1'
+C:\Users\trevor\source\repos\main lab 7\main.cpp(9,2): warning C4551: function call missing argument list
+C:\Users\trevor\source\repos\main lab 7\main.cpp(9,17): error C2065: 'Item1': undeclared identifier
+C:\Users\trevor\source\repos\main lab 7\main.cpp(10,17): error C2146: syntax error: missing ';' before identifier 'Item2'
+C:\Users\trevor\source\repos\main lab 7\main.cpp(10,2): warning C4551: function call missing argument list
+C:\Users\trevor\source\repos\main lab 7\main.cpp(10,17): error C2065: 'Item2': undeclared identifier
+C:\Users\trevor\source\repos\main lab 7\main.cpp(25,2): error C2065: 'Item1': undeclared identifier
+C:\Users\trevor\source\repos\main lab 7\main.cpp(26,2): error C2065: 'Item1': undeclared identifier
+C:\Users\trevor\source\repos\main lab 7\main.cpp(27,2): error C2065: 'Item1': undeclared identifier
+C:\Users\trevor\source\repos\main lab 7\main.cpp(39,2): error C2065: 'Item2': undeclared identifier
+C:\Users\trevor\source\repos\main lab 7\main.cpp(40,2): error C2065: 'Item2': undeclared identifier
+C:\Users\trevor\source\repos\main lab 7\main.cpp(41,2): error C2065: 'Item2': undeclared identifier
+C:\Users\trevor\source\repos\main lab 7\main.cpp(46,10): error C2065: 'Item1': undeclared identifier
+C:\Users\trevor\source\repos\main lab 7\main.cpp(48,10): error C2065: 'Item1': undeclared identifier
+C:\Users\trevor\source\repos\main lab 7\main.cpp(51,36): error C2065: 'Item1': undeclared identifier
+C:\Users\trevor\source\repos\main lab 7\main.cpp(53,14): error C2065: 'Item1': undeclared identifier
+C:\Users\trevor\source\repos\main lab 7\main.cpp(53,36): error C2065: 'Item1': undeclared identifier
+C:\Users\trevor\source\repos\main lab 7\main.cpp(57,10): error C2065: 'Item2': undeclared identifier
+C:\Users\trevor\source\repos\main lab 7\main.cpp(59,10): error C2065: 'Item2': undeclared identifier
+C:\Users\trevor\source\repos\main lab 7\main.cpp(61,36): error C2065: 'Item2': undeclared identifier
+C:\Users\trevor\source\repos\main lab 7\main.cpp(63,14): error C2065: 'Item2': undeclared identifier
+  Generating Code...
+C:\Users\trevor\source\repos\main lab 7\main.cpp(63,36): error C2065: 'Item2': undeclared identifier
