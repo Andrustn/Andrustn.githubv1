@@ -1,7 +1,21 @@
-## Analysis Portfolio
+# Analysis Portfolio
+
+
+### Presentations
+
+[FemTech Analysis](/sample_page)
+
 
 ---
-### Presentations
+[Neural Networks](/pdf/sample_presentation.pdf)
+
+
+---
+[Loveland Aquarium Analysis](http://example.com/)
+
+
+---
+## Python Projects
 
 [Arrests Analysis](https://github.com/Andrustn/Andrustn.github.io/blob/master/Python/Arrests%20Analysis.ipynb)
 <img src="images/Arrests.png?raw=true"/>
@@ -16,20 +30,6 @@
 <img src="images/Titanic ROC.png?raw=true"/>
 ---
 
-### Python Projects
-
-[Arrests Analysis](/sample_page)
-
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-
-
----
-[Project 3 Title](http://example.com/)
-
-
----
 
 ### R Projects 
 
