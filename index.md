@@ -11,7 +11,7 @@
 
 
 ---
-[Loveland Aquarium Analysis](http://example.com/)
+[Data Vizualization Poster](https://github.com/Andrustn/Andrustn.github.io/blob/master/Presentations/The%20In's%20and%20Out's%20of%20Data%20Visualization%20-3%20copy.pdf)
 
 
 ---
