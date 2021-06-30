@@ -4,15 +4,15 @@
 ### Presentations
 
 [FemTech Analysis](/Presentations/BYU Femtech Landscape Analysis.pdf)
-<img src="images/Arrests.png?raw=true"/>
+<img src="images/Screen Shot 2021-06-30 at 14.55.38.png?raw=true"/>
 
 ---
 [Neural Networks](/Presentations/Neural Networks.pdf)
-<img src="images/Arrests.png?raw=true"/>
+<img src="images/Screen Shot 2021-06-30 at 14.56.08.png?raw=true"/>
 
 ---
 [Data Vizualization Poster](https://github.com/Andrustn/Andrustn.github.io/blob/master/Presentations/The%20In's%20and%20Out's%20of%20Data%20Visualization%20-3%20copy.pdf)
-<img src="images/Arrests.png?raw=true"/>
+<img src="images/Screen Shot 2021-06-30 at 14.56.50.png?raw=true"/>
 
 ---
 ## Python Projects
