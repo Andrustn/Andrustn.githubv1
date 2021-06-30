@@ -3,11 +3,12 @@
 ---
 ### Presentations
 
-[Arrests Analysis](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Arrests Analysis](/Python/Arrests Analysis.ipynb)
+<img src="images/Arrests.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Amazon Book Analysis](/Python/Analysis Project.ipynb)
+<img src="images/Multiple Linear Regression.png?raw=true"/>
 
 
 ---
