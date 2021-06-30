@@ -3,17 +3,17 @@
 ---
 ### Presentations
 
-[Arrests Analysis](/Python/Arrests Analysis.ipynb)
+[Arrests Analysis](https://github.com/Andrustn/Andrustn.github.io/blob/master/Python/Arrests%20Analysis.ipynb)
 <img src="images/Arrests.png?raw=true"/>
 
 ---
-[Amazon Book Analysis](/Python/Analysis Project.ipynb)
+[Amazon Book Analysis](https://github.com/Andrustn/Andrustn.github.io/blob/master/Python/Analysis%20Project.ipynb)
 <img src="images/Multiple Linear Regression.png?raw=true"/>
 
 
 ---
-[FemTech Analysis](https://github.com/Andrustn/Andrustn.github.io/blob/master/Presentations/BYU%20Femtech%20Landscape%20Analysis.pdf)
-
+[Titanic Survival Analysis](https://github.com/Andrustn/Andrustn.github.io/blob/master/Python/Test%20:%20Train%20Log%20Regression.py)
+<img src="images/Titanic ROC.png?raw=true"/>
 ---
 
 ### Python Projects
