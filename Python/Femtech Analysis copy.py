@@ -14,7 +14,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn
 
-FemtechData = pd.read_csv("beeef.csv")
+FemtechData = pd.read_csv("data.csv")
 
 
 # %% coercing strings to numeric, dropping average row
