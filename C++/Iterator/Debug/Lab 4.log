@@ -1,7 +1,0 @@
-﻿  main.cpp
-C:\Users\trevor\source\repos\Lab 4\main.cpp(144,14): warning C4101: 'e': unreferenced local variable
-C:\Users\trevor\source\repos\Lab 4\main.cpp(147,17): warning C4101: 'e': unreferenced local variable
-C:\Users\trevor\source\repos\Lab 4\main.cpp(155,13): warning C4101: 'f': unreferenced local variable
-C:\Users\trevor\source\repos\Lab 4\LinkedList.h(165): warning C4715: 'LinkedList<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::insert_before': not all control paths return a value
-C:\Users\trevor\source\repos\Lab 4\LinkedList.h(198): warning C4715: 'LinkedList<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::erase': not all control paths return a value
-  Lab 4.vcxproj -> C:\Users\trevor\source\repos\Lab 4\Debug\Lab 4.exe
