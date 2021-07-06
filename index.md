@@ -50,7 +50,7 @@
 ### R Projects 
 ---
 
-[Diamonds Analysisl](https://github.com/Andrustn/Andrustn.github.io/tree/master/R/Diamonds)
+[Diamonds Analysis](https://github.com/Andrustn/Andrustn.github.io/tree/master/R/Diamonds)
 - Checked all necessary assumptions for linear regression (normality, multicollinearity, homoscedasticity, outliers, and independence) to ensure reliable results
 - Analyzed categorical and quantitative factors that contribute most to prices of a diamonds using linear regression
 <img src="images/Screen Shot 2021-07-06 at 16.28.12.png?raw=true"/>
