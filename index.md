@@ -50,8 +50,8 @@
 ---
 [Titanic Survival Analysis](https://github.com/Andrustn/Andrustn.github.io/blob/master/Python/Test%20:%20Train%20Log%20Regression.py)
 
--Predicted characteristics of groups of people that were more likely to survive the titanic disaster
--Created predictive model for individuals using logistic regression
+- Predicted characteristics of groups of people that were more likely to survive the titanic disaster
+- Created predictive model for individuals using logistic regression
 
 <img src="images/Titanic ROC.png?raw=true"/>
 
@@ -69,8 +69,8 @@
 ---
 [Central Limit Theorem Demonstration](/pdf/sample_presentation.pdf)
 
--Explained and demonstrated concepts of the central limit theorem with examples
--Created vizualizations to highlight the normality of increasing sample sizes
+- Explained and demonstrated concepts of the central limit theorem with examples
+- Created vizualizations to highlight the normality of increasing sample sizes
 
 <img src="images/Screen Shot 2021-07-06 at 16.31.39.png?raw=true"/>
 
