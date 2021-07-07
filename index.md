@@ -1,6 +1,8 @@
 # Analysis Portfolio
 
 
+
+---
 ## Presentations
 ---
 
@@ -29,6 +31,8 @@
 ---
 
 
+
+---
 ## Python Projects
 ---
 
@@ -56,6 +60,8 @@
 <img src="images/Titanic ROC.png?raw=true"/>
 
 
+
+---
 ## R Projects 
 ---
 
@@ -75,6 +81,8 @@
 <img src="images/Screen Shot 2021-07-06 at 16.31.39.png?raw=true"/>
 
 
+
+---
 ## C++ Projects 
 ---
 
