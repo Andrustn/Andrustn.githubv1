@@ -73,7 +73,7 @@
 <img src="images/Screen Shot 2021-07-06 at 16.28.12.png?raw=true"/>
 
 ---
-[Central Limit Theorem Demonstration](/pdf/sample_presentation.pdf)
+[Central Limit Theorem Demonstration](https://github.com/Andrustn/Andrustn.github.io/tree/master/R/Central%20Limit%20Theorem)
 
 - Explained and demonstrated concepts of the central limit theorem with examples
 - Created vizualizations to highlight the normality of increasing sample sizes
@@ -98,7 +98,7 @@
 [Online Bakery](https://github.com/Andrustn/Andrustn.github.io/tree/master/C%2B%2B/Bakery)
 
 - A demonstration of object-oriented programming and inheritance
-- Created online shopping bakery with removable items that self update with price quantity and attributes
+- Created online bakery with removable items that self update with price quantity and attributes
 - Created item objects to contain quantity attributes and price
 
 <img src="images/Screen Shot 2021-07-06 at 16.57.33.png?raw=true"/>
