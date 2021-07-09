@@ -8,7 +8,7 @@
 
 [FemTech Analysis](/Presentations/BYU Femtech Landscape Analysis.pdf)
 
-- Gathered open source information on 100+ Feminine technologyfd companies
+- Gathered open source information on 100+ Feminine technology companies
 - Organized information into interactive browser-based database
 - Reported on 15 most significant potential partners and competitors
 
