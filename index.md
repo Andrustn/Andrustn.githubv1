@@ -12,7 +12,7 @@
 - Organized information into interactive browser-based database
 - Reported on 15 most significant potential partners and competitors
 
-<img src="images/Screen Shot 2021-06-30 at 14.55.38.png?raw=true"/>
+<img src="images/Femtech copy.png?raw=true"/>
 ---
 [Neural Networks](/Presentations/Neural Networks.pdf)
 
@@ -20,14 +20,14 @@
 - Provided conceptual introduction of structure
 - Explained the significance of deep learning
 
-<img src="images/Screen Shot 2021-06-30 at 14.56.08.png?raw=true"/>
+<img src="images/Neural Net copy.png?raw=true"/>
 ---
 [Data Vizualization Poster](/Presentations/The In's and Out's of Data Visualization -3 copy.pdf)
 
 - Provided short explanation on the basics of data vizualization
 - Introduction into categorical and quantitative data
 
-<img src="images/Screen Shot 2021-06-30 at 14.56.50.png?raw=true"/>
+<img src="images/Data Poster copy.png?raw=true"/>
 ---
 
 
